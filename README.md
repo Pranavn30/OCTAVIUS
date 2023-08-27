@@ -1,5 +1,5 @@
 # OCTAVIUS
-Creating hardware for implantation within octopi, for the goal of recording neural data to create multidimensional next-gen prosthetics
+Creating hardware for implantation for the goal of recording neural data to create multidimensional next-gen prosthetics
 
 
 Portfolio Examples:
